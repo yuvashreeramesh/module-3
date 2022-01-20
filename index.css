@@ -5,13 +5,11 @@
 	font-size: 25px;
 	background-color: grey;
 	height: 55px;
-	
 }
 .contents{
 	margin: 5px;
 }
 .menu{
-	
 	text-align: center;
 	font-weight: bold;
 	font-size: 25px;
@@ -24,7 +22,6 @@
 	background-color: gray;
 }
 .item{
-	
 	text-align: center;
 	font-weight: bold;
 	font-size: 20px;
