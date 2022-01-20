@@ -1,0 +1,31 @@
+.heading{
+	padding:5px 0px 0px 10px;
+	border: solid 1px black;
+	font-weight: bold;
+	font-size: 25px;
+	background-color: grey;
+	height: 55px;
+	
+}
+.contents{
+	margin: 5px;
+}
+.menu{
+	
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+	margin: 15px 0px 20px 0px;
+}
+.container{
+	height: 600px;
+	margin: 0px;
+	border: solid 1px black;
+	background-color: gray;
+}
+.item{
+	
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+}
